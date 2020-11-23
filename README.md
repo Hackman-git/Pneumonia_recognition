@@ -1,0 +1,2 @@
+# Pneumonia_recognition
+According to the World Health Organization (WHO), pneumonia kills about 2 million children under 5 years old every year and is consistently estimated as the single leading cause of childhood mortality killing more children than HIV/AIDS,  malaria, and measles combined. To this end, we investigate the effectiveness of deep learning models in classifying chest X-rays to detect pneumonia to facilitate rapid referrals for children needing urgent intervention.
